@@ -1,5 +1,5 @@
 # Belajar-GitHub
-Merupakan Hasil Belajar GitHub
+Hasil Dari Belajar GitHub
 --
 *Hasil Belajar GitHub di dicoding*
 - Bagaimana memasukkan file di GitHub
